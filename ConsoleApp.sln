@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{14E1D74B-C601-4F8B-A283-6F27DF9984EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractInterfaceDemos", "AbstractInterfaceDemos\AbstractInterfaceDemos.csproj", "{8CCA9701-7FEB-4241-833A-5CCD5D61A3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractIDemos", "AbstractInterfaceDemos\AbstractIDemos.csproj", "{8CCA9701-7FEB-4241-833A-5CCD5D61A3BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
